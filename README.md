@@ -1,2 +1,2 @@
-# FrontendProjects
-My frontend projects
+# FrontendProject
+Amazon Clone
