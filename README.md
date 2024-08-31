@@ -1,2 +1,1 @@
-# FrontendProject
-Amazon Clone
+# Amazon Clone
